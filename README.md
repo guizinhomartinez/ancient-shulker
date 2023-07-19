@@ -1,3 +1,3 @@
-# Project Shulker (horrible provisory name)
+# Ancient Shulker
 
-Hello! Welcome to the Project Shulker repository
+Hello! Welcome to the Ancient Shulker repository
